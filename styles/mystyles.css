@@ -1,0 +1,49 @@
+body {
+        background-image: url('../images/babypinkbackground.jpg');
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 22px;
+}
+
+h1{
+    font-size: 59px;
+    text-align: center;
+}
+
+h2{
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3{
+    font-size: 25px;
+    font-weight: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.subheading{
+    text-align: center;
+}
+h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    text-align: left;
+}
+
+p{
+    color: black;
+    text-align: left;
+}
+
+.link{
+    color: rgb(155, 30, 30);
+    text-decoration: underline;
+}
+
+ul{
+    list-style-type:circle;
+    color: black;
+}
+
+ol{
+    color:black
+}
+
